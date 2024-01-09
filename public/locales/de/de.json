@@ -1,0 +1,119 @@
+[
+    {
+        "home": [
+            {
+                "HeroHome": [
+                    {
+                        "title_1": "Ich\u00A0bin\u00A0Angel",
+                        "title_1_2": "Web",
+                        "title_1_3": "Entwickler.",
+                        "content_1": "Hallo! Ich bin ein leidenschaftlicher Webentwickler mit dem Schwerpunkt auf der Schaffung außergewöhnlicher digitaler Erlebnisse.",
+                        "title_2": "Über mich",
+                        "content_2": "Dank meiner Erfahrung im IT-Bereich konnte ich mir spezielle Kenntnisse in der Softwareentwicklung aneignen.",
+                        "title_3": "Meine Arbeit",
+                        "content_3": "Während meiner Karriere als Webentwickler habe ich an einer Vielzahl von anspruchsvollen und spannenden Projekten mitgewirkt.",
+                        "title_4": "Folge mir"
+                    }
+                ]
+            },
+            {
+                "AboutHome": [
+                    {
+                        "title_1_1": "Ich bin",
+                        "title_1_2": "Angel.",
+                        "content_1": "Computeringenieur mit jahrelanger Erfahrung. Mein Ansatz besteht darin, mein technisches Wissen mit grenzenloser Kreativität zu kombinieren, um komplexe Herausforderungen zu bewältigen und innovative digitale Produkte zu entwickeln."
+                    }
+                ]
+            },
+            {
+                "EducationHome": [
+                    {
+                        "title_1_1": "Erkunden Sie meinen akademischen Werdegang und",
+                        "title_1_2": "meine beruflichen Erfolge.",
+                        "content_1": "Finden Sie heraus, wie meine Zertifizierungen meine technischen Fähigkeiten und mein Fachwissen unterstützen.",
+                        "edu_elements": [
+                            {
+                                "edu_title_1": "Computer-Ingenieur",
+                                "edu_content_1": "Alexander von Humboldt-Universität."
+                            },
+                            {
+                                "edu_title_2": "FrontEnd-Webentwickler",
+                                "edu_content_2": "Universität Web-Entwicklung - FrontEnd Web-Entwickler. Udemy Zertifikat der Fertigstellung."
+                            },
+                            {
+                                "edu_title_3": "Praktisches Next.js & React",
+                                "edu_content_3": "Praktisches Next.js & React - Bauen Sie eine echte WebApp mit Next.js Udemy Zertifikat der Fertigstellung."
+                            },
+                            {
+                                "edu_title_4": "Figma Web Design Kurs UI UX",
+                                "edu_content_4": "Vollständiger Figma Web Design Kurs UI UX Design mit Projekten. Udemy Zertifikat der Fertigstellung."
+                            },
+                            {
+                                "edu_title_5": "GitLab",
+                                "edu_content_5": "GitLab. Udemy Zertifikat der Fertigstellung."
+                            },
+                            {
+                                "edu_title_6": "JavaScript: Von Grund auf mit NodeJS",
+                                "edu_content_6": "JavaScript: Von Grund auf mit NodeJS. Udemy Zertifikat der Fertigstellung."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillHome": [
+                    {
+                        "title_1_1": "Ein Blick auf meine",
+                        "title_1_2": "Technologie-Toolbox.",
+                        "content_1": "Ich hebe die verschiedenen technischen Fähigkeiten hervor, die ich im Laufe meiner Karriere erworben habe.",
+                        "title_skill_1": "Technische Fertigkeiten",
+                        "title_skill_2": "Andere Fertigkeiten",
+                        "skill_1": "UX/UI Gestaltung",
+                        "skill_2": "Reaktionsfähiges Web-Design",
+                        "skill_3": "Hosting"
+                    }
+                ]
+            },
+            {
+                "ProyectsHome": [
+                    {
+                        "development_0": "Web-Entwicklung",
+                        "proyects": [
+                            {
+                                "url": "https://galeryan.com/",
+                                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704329171/ab_portfolio/galeryan_gtgpj3.webp",
+                                "company": "GaleryAn",
+                                "development": "Web-Entwicklung",
+                                "date": "2023"
+                            },
+                            {
+                                "url": "#",
+                                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704659508/ab_portfolio/HollyWater_hvca0y.webp",
+                                "company": "Holly Water",
+                                "development": "Immobilien-Webentwicklung",
+                                "date": "2023"
+                            },
+                            {
+                                "url": "https://ferralca.com.ve/",
+                                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704659006/ab_portfolio/ferralca_bi4wti.webp",
+                                "company": "Ferralca",
+                                "development": "Web-Entwicklung",
+                                "date": "2022"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Footer": [
+                    {
+                        "title_0": "Web-Entwickler",
+                        "title_1": "Kontakt",
+                        "title_2_1": "E-Mail:",
+                        "title_2_2": "Rufen Sie mich an:"
+                    }
+                ]
+            }
+        ]
+    }
+]

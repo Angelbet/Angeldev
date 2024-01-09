@@ -1,0 +1,119 @@
+[
+    {
+        "home": [
+            {
+                "HeroHome": [
+                    {
+                        "title_1": "Soy\u00A0Angel",
+                        "title_1_2": "Desarrollador",
+                        "title_1_3": "Web.",
+                        "content_1": "¡Hola! Soy un apasionado desarrollador web con un enfoque centrado en la creación de experiencias digitales excepcionales.",
+                        "title_2": "Sobre Mí",
+                        "content_2": "Mi experiencia en el campo de la informática me ha permitido adquirir habilidades especializadas en el desarrollo de software.",
+                        "title_3": "Mi Trabajo",
+                        "content_3": "Durante mi trayectoria como desarrollador web, he contribuido a una amplia gama de proyectos desafiantes y apasionantes.",
+                        "title_4": "Sígueme"
+                    }
+                ]
+            },
+            {
+                "AboutHome": [
+                    {
+                        "title_1_1": "Soy",
+                        "title_1_2": "Angel.",
+                        "content_1": "Ingeniero en informatica con años de experiencia a mis espaldas. Mi enfoque se centra en combinar mi conocimiento técnico con una creatividad sin límites para abordar desafíos complejos y desarrollar productos digitales de vanguardia."
+                    }
+                ]
+            },
+            {
+                "EducationHome": [
+                    {
+                        "title_1_1": "Explora mi camino académico y",
+                        "title_1_2": "Logros profesionales.",
+                        "content_1": "Descubre cómo mis certificaciones respaldan mis habilidades técnicas y conocimientos especializados.",
+                        "edu_elements": [
+                            {
+                                "edu_title_1": "Ingeniero en Informática",
+                                "edu_content_1": "Universidad Alejandro de Humboldt."
+                            },
+                            {
+                                "edu_title_2": "FrontEnd Web Developer",
+                                "edu_content_2": "Universidad Desarrollo Web - FrontEnd Web Developer. Certificado de Finalización Udemy."
+                            },
+                            {
+                                "edu_title_3": "Practical Next.js & React",
+                                "edu_content_3": "Practical Next.js & React - Build a real WebApp with Next.js Certificado de Finalización Udemy."
+                            },
+                            {
+                                "edu_title_4": "Figma Web Design Course UI UX",
+                                "edu_content_4": "Complete Figma Web Design Course UI UX Design with Projects. Certificado de Finalización Udemy."
+                            },
+                            {
+                                "edu_title_5": "GitLab",
+                                "edu_content_5": "GitLab. Certificado de Finalización Udemy."
+                            },
+                            {
+                                "edu_title_6": "JavaScript: Desde cero con NodeJS",
+                                "edu_content_6": "JavaScript: Desde cero con NodeJS. Certificado de Finalización Udemy."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "SkillHome": [
+                    {
+                        "title_1_1": "Un vistazo a mi caja de",
+                        "title_1_2": "Herramientas tecnológicas.",
+                        "content_1": "Destaco las diversas habilidades técnicas que he adquirido a lo largo de mi carrera.",
+                        "title_skill_1": "Habilidades Técnicas",
+                        "title_skill_2": "Otras Habilidades",
+                        "skill_1": "Diseño UX/UI",
+                        "skill_2": "Diseño Web Responsivo",
+                        "skill_3": "Hosting"
+                    }
+                ]
+            },
+            {
+                "ProyectsHome": [
+                    {
+                        "development_0": "Desarrollo Web",
+                        "proyects": [
+                            {
+                                "url": "https://galeryan.com/",
+                                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704329171/ab_portfolio/galeryan_gtgpj3.webp",
+                                "company": "GaleryAn",
+                                "development": "Desarrollo Web",
+                                "date": "2023"
+                            },
+                            {
+                                "url": "#",
+                                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704659508/ab_portfolio/HollyWater_hvca0y.webp",
+                                "company": "Holly Water",
+                                "development": "Desarrollo Web Inmobiliario",
+                                "date": "2023"
+                            },
+                            {
+                                "url": "https://ferralca.com.ve/",
+                                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704659006/ab_portfolio/ferralca_bi4wti.webp",
+                                "company": "Ferralca",
+                                "development": "Desarrollo Web",
+                                "date": "2022"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Footer": [
+                    {
+                        "title_0": "Desarrollador Web",
+                        "title_1": "Ponte en contacto",
+                        "title_2_1": "Email:",
+                        "title_2_2": "Llámame:"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "home": [
+      {
+        "HeroHome": [
+          {
+            "title_1": "I'm\u00A0Angel,",
+            "title_1_2": "Web",
+            "title_1_3": "Developer.",
+            "content_1": "Hi! I'm a passionate web developer with a focus on creating exceptional digital experiences.",
+            "title_2": "About Me",
+            "content_2": "My experience in the IT field has allowed me to acquire specialized skills in software development.",
+            "title_3": "My Work",
+            "content_3": "During my career as a web developer, I have contributed to a wide range of challenging and exciting projects.",
+            "title_4": "Follow Me"
+          }
+        ]
+      },
+      {
+        "AboutHome": [
+          {
+            "title_1_1": "I'm",
+            "title_1_2": "Angel.",
+            "content_1": "Computer engineer with years of experience behind me. My approach focuses on combining my technical knowledge with boundless creativity to tackle complex challenges and develop cutting-edge digital products."
+          }
+        ]
+      },
+      {
+        "EducationHome": [
+          {
+            "title_1_1": "Explore my academic journey and",
+            "title_1_2": "Professional achievements.",
+            "content_1": "Discover how my certifications support my technical skills and specialized knowledge.",
+            "edu_elements": [
+              {
+                "edu_title_1": "Computer Engineer",
+                "edu_content_1": "Alexander von Humboldt University."
+              },
+              {
+                "edu_title_2": "FrontEnd Web Developer",
+                "edu_content_2": "University Web Development - FrontEnd Web Developer. Udemy Certificate of Completion."
+              },
+              {
+                "edu_title_3": "Practical Next.js & React",
+                "edu_content_3": "Practical Next.js & React - Build a real WebApp with Next.js Udemy Certificate of Completion."
+              },
+              {
+                "edu_title_4": "Figma Web Design Course UI UX",
+                "edu_content_4": "Complete Figma Web Design Course UI UX Design with Projects. Udemy Certificate of Completion."
+              },
+              {
+                "edu_title_5": "GitLab",
+                "edu_content_5": "GitLab. Udemy Certificate of Completion."
+              },
+              {
+                "edu_title_6": "JavaScript: From scratch with NodeJS",
+                "edu_content_6": "JavaScript: From scratch with NodeJS. Udemy Certificate of Completion."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "SkillHome": [
+          {
+            "title_1_1": "A look at my",
+            "title_1_2": "Technology Toolbox.",
+            "content_1": "I highlight the various technical skills I have acquired throughout my career.",
+            "title_skill_1": "Technical Skills",
+            "title_skill_2": "Other Skills",
+            "skill_1": "UX/UI Design",
+            "skill_2": "Responsive Web Design",
+            "skill_3": "Hosting"
+          }
+        ]
+      },
+      {
+        "ProyectsHome": [
+          {
+            "development_0": "Web Development",
+            "proyects": [
+              {
+                "url": "https://galeryan.com/",
+                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704329171/ab_portfolio/galeryan_gtgpj3.webp",
+                "company": "GaleryAn",
+                "development": "Web Development",
+                "date": "2023"
+              },
+              {
+                "url": "#",
+                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704659508/ab_portfolio/HollyWater_hvca0y.webp",
+                "company": "Holly Water",
+                "development": "Real Estate Web Development",
+                "date": "2023"
+              },
+              {
+                "url": "https://ferralca.com.ve/",
+                "src": "https://res.cloudinary.com/drg26w50h/image/upload/v1704659006/ab_portfolio/ferralca_bi4wti.webp",
+                "company": "Ferralca",
+                "development": "Web Development",
+                "date": "2022"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Footer": [
+          {
+            "title_0": "Web Developer",
+            "title_1": "Get in touch",
+            "title_2_1": "Email:",
+            "title_2_2": "Call me:"
+          }
+        ]
+      }
+    ]
+  }
+]
