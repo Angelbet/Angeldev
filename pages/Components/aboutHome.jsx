@@ -266,13 +266,13 @@ export function AboutHome() {
                 <div className={styles.space_80} />
                 <div className={styles.wrap_links_hero}>
                     <div ref={buttonsCv} className={`${styles.effect} ${styles.left_links_hero_a}`}>
-                        <a href="./cv/angeldev_cv_en.pdf" className={`${styles.button} ${styles.w_button} ${styles.mg_top_auto} ${styles.cv_download} ${bold.className}`}>
+                        <a href="./cv/angeldev_cv_en.pdf" target='_blank' className={`${styles.button} ${styles.w_button} ${styles.mg_top_auto} ${styles.cv_download} ${bold.className}`}>
                             Download CV | EN
                         </a>
-                        <a href="./cv/angeldev_cv_es.pdf" className={`${styles.button} ${styles.w_button} ${styles.mg_top_auto} ${styles.cv_download} ${bold.className}`}>
+                        <a href="./cv/angeldev_cv_es.pdf" target="_blank" className={`${styles.button} ${styles.w_button} ${styles.mg_top_auto} ${styles.cv_download} ${bold.className}`}>
                             Descargar CV | ES
                         </a>
-                        <a href="./cv/angeldev_cv_de.pdf" className={`${styles.button} ${styles.w_button} ${styles.mg_top_auto} ${styles.cv_download} ${bold.className}`}>
+                        <a href="./cv/angeldev_cv_de.pdf" target="_blank" className={`${styles.button} ${styles.w_button} ${styles.mg_top_auto} ${styles.cv_download} ${bold.className}`}>
                             CV herunterladen | DE
                         </a>
                     </div>
